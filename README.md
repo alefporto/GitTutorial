@@ -2,7 +2,7 @@
 
 ## Afinal, o que é Git e Github?
 
-Se vc entrou agora no mundo da programação, você já deve ter ouvido falar DEMAIS em git e github. Mas afinal, o que é Git e Github?
+Se você entrou agora no mundo da programação, você já deve ter ouvido falar DEMAIS em git e github. Mas afinal, o que é Git e Github?
 
 ## Git
 
